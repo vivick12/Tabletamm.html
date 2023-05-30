@@ -4,3 +4,18 @@
         border: 0;
         padding: 0;
     }
+    #nossaComida .container {
+        flex-direction:column;
+     
+    }
+
+    #nossaEquipe .container {
+        flex-direction: column-reverse;
+        
+    }
+
+    #contato .container {
+        flex-direction: column;
+
+    }
+       
