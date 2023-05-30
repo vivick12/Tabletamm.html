@@ -48,3 +48,42 @@
     .nome,.redes,.endereco {
         padding-bottom: 5vw;
     }
+
+    .amm {
+        font-size: 20px;
+    }
+
+    .cs {
+        font-size: 2 0px;
+    }
+
+    .rede-nome {
+        font: size 18px;
+    }
+
+    .endereco-descricao {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 12px;
+    }
+
+    .endereco-nome {
+        font-size: 22px
+    }
+
+    .endereco {
+        width: 80vw;
+    }
+
+    .prato {
+        margin: 10px;
+    }
+
+    .cardapio {
+        margin: 16px
+    }
+
+    .conteudo {
+        margin-left: 0;
+        margin-right: 0;
+        margin: 15px;
