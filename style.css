@@ -87,3 +87,17 @@
         margin-left: 0;
         margin-right: 0;
         margin: 15px;
+    }
+
+    #header .container {
+        display: block;
+       
+    }
+    
+    .menu2{
+        display: flex;
+        justify-content: space-around;
+        align-items:center;
+        flex-wrap: wrap;
+    }
+
